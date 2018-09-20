@@ -1,25 +1,26 @@
 # Data-Structures
 Data Structures
 
-One-dimensional Structures
+#One-dimensional Structures
+
 Array
 String
 Linked list
 
 
-Two-dimensional structures
+#Two-dimensional structures
 2-D array
 
-Three structures
+#Three structures
 Binary search tree
 prefix tree(AKA a trie)
 
 
-Maps and Sets
+#Maps and Sets
 Hashmap, Hashset
 TreeMap. TreeSet
 
-Graphs
+#Graphs
 Directed graph
 Undirected graph
 Adjacency matrix
