@@ -3,8 +3,8 @@ Data Structures
 
 <p>One-dimensional Structures
 
-###Array
-###String
+###h3 Array
+###h3String
 ###Linked list</p>
 
 
