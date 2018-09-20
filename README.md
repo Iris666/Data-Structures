@@ -3,9 +3,9 @@ Data Structures
 
 <p>One-dimensional Structures
 
-Array
-String
-Linked list</p>
+<l>Array</l>
+<l>String</l>
+<l>Linked list</p>
 
 
 #Two-dimensional structures
