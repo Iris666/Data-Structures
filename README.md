@@ -1,11 +1,11 @@
 # Data-Structures
 Data Structures
 
-#One-dimensional Structures
+<p>One-dimensional Structures
 
 Array
 String
-Linked list
+Linked list</p>
 
 
 #Two-dimensional structures
